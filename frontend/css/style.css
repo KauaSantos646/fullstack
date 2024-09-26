@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background: linear-gradient(to bottom, #3f3f3f,#303030,#202020,#0f0f0f,black);
+    height: 100vh;
+}
+form {
+    display: inline-block;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+#loginForm{
+    margin-top: 14%;
+}
+
+#registerForm{
+    margin-top: 14%;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+}
+button {
+    padding: 5px 15px;
+    width: 10vh;
+    border-radius: 10px;
+}
